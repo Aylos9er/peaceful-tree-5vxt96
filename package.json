@@ -2,7 +2,7 @@
   "name": "csb-app",
   "version": "1.0.0",
   "scripts": {
-    "dev": "litz devb",
+    "dev": "J.Mosij",
     "build": "blitz build",
     "start": "blitz start",
     "studio": "blitz prisma studio",
